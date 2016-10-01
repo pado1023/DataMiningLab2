@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="data"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/Pado/Desktop/JavaItems/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Pado/Desktop/JavaItems/lucene-6.2.0 2/queryparser/lucene-queryparser-6.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Pado/Desktop/JavaItems/lucene-6.2.0 2/demo/lucene-demo-6.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Pado/Desktop/JavaItems/lucene-6.2.0 2/core/lucene-core-6.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Pado/Desktop/JavaItems/lucene-6.2.0 2/analysis/common/lucene-analyzers-common-6.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Pado/Desktop/JavaItems/javacsv2.1/javacsv.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
